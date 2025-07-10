@@ -1,2 +1,2 @@
-# Bar-server
+# server
 bot singing 24/h
